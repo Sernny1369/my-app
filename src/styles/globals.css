@@ -87,17 +87,124 @@ body {
 
 body {
   color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+  background: rgba(47,85,151,1);
 }
+
+.histoire{
+  background-image: linear-gradient(90.79deg,#FFFFFF,3.42%, #F4DD13 82.66%);
+  background-clip: text;
+  color: transparent;
+
+}
+
+/* TT les pages */
+p {margin:10px;
+  padding: 5px;
+}
+
+h1 p{
+  background-image: linear-gradient(90.79deg,#FFFFFF,3.42%, #F4DD13 82.66%);
+  background-clip: text;
+  color: transparent;
+  padding:0px;
+
+}
+.circle{
+  background: rgba(244, 221, 19, 1);
+  border-radius: 50px;
+  width: 40px;
+  height: 40px;
+}
+
+.rectangle{
+  background: white;
+  margin:30px;
+  padding: 5px;
+}
+
+.rectangle-text{
+  color: rgba(47, 86, 151, 1);
+}
+
+.conteneur{
+  display: flex;
+}
+
+.contenu{
+  display: inline-block;
+  width : 50vx;
+}
+
+h2 {
+  color: rgba(244, 221, 19, 1);
+}
+
+div{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+/*structure*/
+.bulle-left{
+  background: rgba(237, 247, 255, 1);
+  border-radius: 50px;
+}
+
+
+.bulle-text-left{
+  color: rgba(47, 86, 151, 1);
+}
+
+/*history*/
+
+.founder{
+  display: inline-block;
+  width : 50%;
+}
+
+.wave{
+width: 333px;
+height: 157px;
+background: #FFFFFF;
+}
+
+.scratch{
+width: 169px;
+height: 386px;
+background: #FFFFFF;
+}
+
+.trait
+
+
+.imgH{
+  margin: 10px;
+}
+
+/*Fday*/
+
+.Fday{
+  display: inline-block;
+  width : 33%;
+}
+
+.Fday-scratch{
+  margin:0px;
+  width : 169px;
+  height: 342px;
+  background: #FFFFFF;
+}
+
+
+
 
 a {
   color: inherit;
   text-decoration: none;
+}
+
+main{
+  padding :0;
 }
 
 @media (prefers-color-scheme: dark) {

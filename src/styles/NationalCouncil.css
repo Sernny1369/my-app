@@ -1,0 +1,17 @@
+div{
+    display: flex;
+    position: absolute;
+    width: 753px;
+    height: 831px;
+    left:54px;
+    top: 156px;
+}
+
+p{
+    display: block;
+    margin: 16px;
+}
+
+h1 {
+    background: linear-gradient();
+}
