@@ -10,7 +10,7 @@ export default function History() {
                 </h1>
             </div>
             <div className="conteneur">
-                <div  className="contenu">
+                <div  className="contenueMid">
                     <p>
                         The Nautical Training Corps was founded on 19 May 1944 by Commodore, 
                         F P (Frank) Froést-Carr OBE NTC (1888 - 1975).
@@ -30,7 +30,7 @@ export default function History() {
                         It later moved to the Old Shoreham Road and Shoreham Harbour.
                     </p>
                 </div>
-                <div className="contenu">
+                <div className="contenueMid">
                     <p>
                         The Corps spread throughout the south of England and beyond, particularly in Sussex, 
                         Hampshire and south London; there have also been units as far afield as Acton, Northampton, 

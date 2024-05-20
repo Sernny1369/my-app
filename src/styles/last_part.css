@@ -1,0 +1,51 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+h1{
+    color: #f4dd13;
+
+
+}
+
+.last_part{
+
+    display: flex;
+    border: none;
+    border-radius: 10em;
+    border-bottom: solid #d7dff5 0.15em;
+    background-color: #edf2f7;
+    text-align: center;
+    width: 88%;
+    padding: 3%;
+    margin-left: 3%;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    background-color: #2F5597;
+    padding-top: 10%;
+}
+
+.last_part article{
+
+    width: 80%;
+}
+
+.last_part a{
+    text-decoration: none;
+    color: #2F5597;
+}
+
+.FAQ{
+    width: 30%;
+    border-bottom: solid #d7dff5 0.15em;
+    background-color: white;
+    border-radius: 10em 0em 0em 10em;
+    padding-top: 15px; 
+    padding-bottom: 15px;
+
+}

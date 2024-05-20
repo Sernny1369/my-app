@@ -2,20 +2,9 @@ import Head from "next/head";
 import Image from "next/legacy/image";
 import { Inter } from "next/font/google";
 import styles from "@/styles/Home.module.css";
-/*
-import NtcL from "@/components/structure/NtcLead";
-import NtcG from "@/components/structure/NtcGest";
+
 import Aboutus from "@/components/Aboutus";
-import History from "@/components/History/History";
-import Founder from "@/components/History/Founder";
-import Fday from "@/components/History/Fday";
-*/
-import FaqI from "@/components/Faq/intro";
-import FaqCadet from "@/components/Faq/QCadet";
-
-
-
-
+import Header from "@/components/Header";
 
 import { Component } from "react";
 
@@ -31,12 +20,10 @@ export default function Home() {
         <link rel="icon" href="/ntc2.png" />
       </Head>
       <main className={`${styles.main} ${inter.className}`}>
-      <div>
-        <FaqI />
-      </div>
-      <div>
-        <FaqCadet />
-      </div>
+    
+        <div>
+          <Aboutus />
+        </div>
       </main>
     </>
   );

@@ -1,0 +1,65 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+
+footer{
+    background-color: #2F5597;
+    justify-content: space-between;
+}
+
+html{
+
+    background-color: white;
+}
+
+
+
+
+.copyright{
+    text-align: center;
+}
+
+
+.art{
+
+    display: flex;
+    width: 96%;
+    justify-content: space-between;
+    padding: 10px;
+}
+
+
+.logo{
+    background-color: white;
+    align-items: center;
+    text-align: center;
+    padding: 3%;
+}
+
+div a{
+    text-decoration: none;
+}
+
+.logoImage{
+
+    padding-right: 9%;
+    padding-left: 9%;
+    justify-content: center;
+    justify-content: space-evenly;
+    
+}
+
+.art article{
+
+    padding-left: 8%;
+    width: 50%;
+}
+
+.art p{
+
+    text-align: justify;
+}
+

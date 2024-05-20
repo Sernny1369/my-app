@@ -1,0 +1,53 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+
+h1{
+    text-align: center;
+    color: #f4dd13;
+
+
+}
+
+
+.partie article{
+
+    display: flex;
+    width: 50%;
+    flex-grow: 1;
+}
+
+
+.partie{
+
+    display: flex;
+    text-align: justify;
+    padding: 4% 2%;
+    flex-direction: row;
+
+}
+
+
+
+
+
+main{
+
+    background-color: #2F5597 ;
+}
+
+
+
+.partie p{
+
+    width: 90%;
+    color: white;
+}
+
+.img{
+
+    width: 10%;
+}
+

@@ -9,13 +9,13 @@ export default function NtcG() {
     return (
         <div>
             <div className="conteneur">
-                <div className="bulle-left contenu">
-                    <p className="bulle-text-left histoire">
+                <div className="bulle-left contenu-s">
+                    <p className="bulle-text histoire">
                     The Corps is managed by a board of Trustees headed by Chair, open to elections every three years. 
                     The board of Trustees are made up of uniformed volunteers in addition to other non-uniformed volunteers.
                     </p>
                 </div>
-                <div className="contenu">            
+                <div className="contenueMid">            
                     <h1>
                         <p>The National Council</p>
                         <p> (Trustees)</p>
@@ -24,10 +24,10 @@ export default function NtcG() {
             </div>
     
             <div className="conteneur">
-                <div className="contenue">            
+                <div className="contenueMid">            
                     <Image src="/structur.png" alt="c'est l'image" width={600} height={500}/>
                 </div>
-                <div className="contenue">
+                <div className="contenueMid">
 
                     <div >
                         <p>

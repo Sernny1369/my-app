@@ -7,17 +7,17 @@ export default function FaqCadet(){
 
             <div className="rectangle">
                 <div className="conteneur">
-                    <div className="circle contenu">
+                    <div className="circle inline">
                         <Image src="/comunity.png" alt="" width={40} height={40}/>
                     </div>
-                    <p className="contenu rectangle-text">
+                    <p className="inline rectangle-text">
                     I'm interested but don't have any knowledge of the NTC, music or seamanship, 
                     so is there any point in me joining?
                     </p>
                 </div>
                 <div className="conteneur">
-                    <Image src="/ntc2.png" alt="" width={40} height={40} className="contenu"/>
-                    <p className="contenu rectangle-text">
+                    <Image src="/ntc2.png" alt="" width={40} height={40} className="inline"/>
+                    <p className="inline rectangle-text">
                     It doesn't matter! - we will teach you everything that you need to know. 
                     You will get to learn lots and experience a whole load of new stuff.
                     </p>
@@ -26,7 +26,7 @@ export default function FaqCadet(){
             </div>
             <div className="rectangle">
                 <div className="conteneur">
-                    <div className="circle contenu">
+                    <div className="circle inline">
                         <Image src="/comunity.png" alt="" width={40} height={40}/>
                     </div>
                     <p className="contenu rectangle-text">
@@ -34,7 +34,7 @@ export default function FaqCadet(){
                     </p>
                 </div>
                 <div className="conteneur">
-                    <Image src="/ntc2.png" alt="" width={40} height={40} className="contenu"/>
+                    <Image src="/ntc2.png" alt="" width={40} height={40} className="inline"/>
                     <p className="contenu rectangle-text">
                     No, you don't have to. No extra activity is compulsory, although we always like 
                     all cadets to try new experiences and achieve their full potential. Usually you 
@@ -46,16 +46,16 @@ export default function FaqCadet(){
             </div>
             <div className="rectangle">
                 <div className="conteneur">
-                    <div className="circle contenu">
+                    <div className="circle inline">
                         <Image src="/comunity.png" alt="" width={40} height={40}/>
                     </div>
-                    <p className="contenu rectangle-text">
+                    <p className="inline rectangle-text">
                     Can I just join a band?
                     </p>
                 </div>
                 <div className="conteneur">
-                    <Image src="/ntc2.png" alt="" width={40} height={40} className="contenu"/>
-                    <p className="contenu rectangle-text">
+                    <Image src="/ntc2.png" alt="" width={40} height={40} className="inline"/>
+                    <p className="inline rectangle-text">
                     No, we want you to attend Deck Night's regularly for your unit, so that you 
                     play a full part and make the most of the opportunities available.
 
@@ -65,16 +65,16 @@ export default function FaqCadet(){
             </div>
             <div className="rectangle">
                 <div className="conteneur">
-                    <div className="circle contenu">
+                    <div className="circle inline">
                         <Image src="/comunity.png" alt="" width={40} height={40}/>
                     </div>
-                    <p className="contenu rectangle-text">
+                    <p className="inline rectangle-text">
                     Can I join but not come every week?
                     </p>
                 </div>
                 <div className="conteneur">
-                    <Image src="/ntc2.png" alt="" width={40} height={40} className="contenu"/>
-                    <p className="contenu rectangle-text">
+                    <Image src="/ntc2.png" alt="" width={40} height={40} className="inline"/>
+                    <p className="inline rectangle-text">
                     No, although alternative arrangements can be discussed to deal with any 
                     temporary problems that arise.
 
@@ -84,7 +84,7 @@ export default function FaqCadet(){
             </div>
             <div className="rectangle">
                 <div className="conteneur">
-                    <div className="circle contenu">
+                    <div className="circle inline">
                         <Image src="/comunity.png" alt="" width={40} height={40}/>
                     </div>
                     <p className="contenu rectangle-text">
@@ -92,8 +92,8 @@ export default function FaqCadet(){
                     </p>
                 </div>
                 <div className="conteneur">
-                    <Image src="/ntc2.png" alt="" width={40} height={40} className="contenu"/>
-                    <p className="contenu rectangle-text">
+                    <Image src="/ntc2.png" alt="" width={40} height={40} className="inline"/>
+                    <p className="inline rectangle-text">
                     We can organise an earlier finishing time if you need one.
 
                     </p>
@@ -102,16 +102,16 @@ export default function FaqCadet(){
             </div>
             <div className="rectangle">
                 <div className="conteneur">
-                    <div className="circle contenu">
+                    <div className="circle inline">
                         <Image src="/comunity.png" alt="" width={40} height={40}/>
                     </div>
-                    <p className="contenu rectangle-text">
+                    <p className="inline rectangle-text">
                     I'm not sure if I would be any good, but want to have a go, can I?
                     </p>
                 </div>
                 <div className="conteneur">
-                    <Image src="/ntc2.png" alt="" width={40} height={40} className="contenu"/>
-                    <p className="contenu rectangle-text">
+                    <Image src="/ntc2.png" alt="" width={40} height={40} className="inline"/>
+                    <p className="inline rectangle-text">
                     Yes of course! You'll have a trial period to decide if you like it before you join.
 
                     </p>
@@ -120,16 +120,16 @@ export default function FaqCadet(){
             </div>
             <div className="rectangle">
                 <div className="conteneur">
-                    <div className="circle contenu">
+                    <div className="circle inline">
                         <Image src="/comunity.png" alt="" width={40} height={40}/>
                     </div>
-                    <p className="contenu rectangle-text">
+                    <p className="inline rectangle-text">
                     Do I have to wear the uniform?
                     </p>
                 </div>
                 <div className="conteneur">
-                    <Image src="/ntc2.png" alt="" width={40} height={40} className="contenu"/>
-                    <p className="contenu rectangle-text">
+                    <Image src="/ntc2.png" alt="" width={40} height={40} className="inline"/>
+                    <p className="inline rectangle-text">
                     Yes, we expect all cadets to wear the uniform, with pride.
                     </p>
                 </div>
